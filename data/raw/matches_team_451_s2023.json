@@ -1,0 +1,1892 @@
+[
+  {
+    "fixture": {
+      "id": 971362,
+      "referee": "J. Baliño",
+      "timezone": "UTC",
+      "date": "2023-01-30T00:30:00+00:00",
+      "timestamp": 1675038600,
+      "periods": {
+        "first": 1675038600,
+        "second": 1675042200
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 455,
+        "name": "Atletico Tucuman",
+        "logo": "https://media.api-sports.io/football/teams/455.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971363,
+      "referee": "A. Merlos",
+      "timezone": "UTC",
+      "date": "2023-02-05T22:15:00+00:00",
+      "timestamp": 1675635300,
+      "periods": {
+        "first": 1675635300,
+        "second": 1675638900
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1065,
+        "name": "Central Cordoba de Santiago",
+        "logo": "https://media.api-sports.io/football/teams/1065.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971386,
+      "referee": "D. Herrera",
+      "timezone": "UTC",
+      "date": "2023-02-12T00:30:00+00:00",
+      "timestamp": 1676161800,
+      "periods": {
+        "first": 1676161800,
+        "second": 1676165400
+      },
+      "venue": {
+        "id": 110,
+        "name": "Estadio Mario Alberto Kempes",
+        "city": "Ciudad de Córdoba, Provincia de Córdoba"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/456.png",
+        "winner": true
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971388,
+      "referee": "S. Trucco",
+      "timezone": "UTC",
+      "date": "2023-02-19T22:15:00+00:00",
+      "timestamp": 1676844900,
+      "periods": {
+        "first": 1676844900,
+        "second": 1676848500
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1064,
+        "name": "Platense",
+        "logo": "https://media.api-sports.io/football/teams/1064.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971409,
+      "referee": "Y. Falcón",
+      "timezone": "UTC",
+      "date": "2023-02-26T00:30:00+00:00",
+      "timestamp": 1677371400,
+      "periods": {
+        "first": 1677371400,
+        "second": 1677375000
+      },
+      "venue": {
+        "id": 115,
+        "name": "Estadio José Amalfitani",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media.api-sports.io/football/teams/438.png",
+        "winner": false
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971413,
+      "referee": "F. Espinoza",
+      "timezone": "UTC",
+      "date": "2023-03-07T00:00:00+00:00",
+      "timestamp": 1678147200,
+      "periods": {
+        "first": 1678147200,
+        "second": 1678150800
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": null
+      },
+      "away": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media.api-sports.io/football/teams/442.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971432,
+      "referee": "H. Mastrángelo",
+      "timezone": "UTC",
+      "date": "2023-03-13T00:30:00+00:00",
+      "timestamp": 1678667400,
+      "periods": {
+        "first": 1678667400,
+        "second": 1678671000
+      },
+      "venue": {
+        "id": 43,
+        "name": "Estadio Florencio Solá",
+        "city": "Lomas de Zamora, Provincia de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 449,
+        "name": "Banfield",
+        "logo": "https://media.api-sports.io/football/teams/449.png",
+        "winner": true
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 988710,
+      "referee": "J. Baliño",
+      "timezone": "UTC",
+      "date": "2023-03-19T22:00:00+00:00",
+      "timestamp": 1679263200,
+      "periods": {
+        "first": 1679263200,
+        "second": 1679266800
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      },
+      "away": {
+        "id": 478,
+        "name": "Instituto Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/478.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971456,
+      "referee": "Y. Falcón",
+      "timezone": "UTC",
+      "date": "2023-04-01T18:30:00+00:00",
+      "timestamp": 1680373800,
+      "periods": {
+        "first": 1680373800,
+        "second": 1680377400
+      },
+      "venue": {
+        "id": 44,
+        "name": "Estadio Claudio Fabián Tapia",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media.api-sports.io/football/teams/2432.png",
+        "winner": false
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971462,
+      "referee": "L. Rey Hilfer",
+      "timezone": "UTC",
+      "date": "2023-04-10T00:30:00+00:00",
+      "timestamp": 1681086600,
+      "periods": {
+        "first": 1681086600,
+        "second": 1681090200
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      },
+      "away": {
+        "id": 448,
+        "name": "Colon Santa Fe",
+        "logo": "https://media.api-sports.io/football/teams/448.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971479,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2023-04-12T20:30:00+00:00",
+      "timestamp": 1681331400,
+      "periods": {
+        "first": 1681331400,
+        "second": 1681335000
+      },
+      "venue": {
+        "id": 103,
+        "name": "Estadio Pedro Bidegaín",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media.api-sports.io/football/teams/460.png",
+        "winner": true
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971487,
+      "referee": "P. Echavarría",
+      "timezone": "UTC",
+      "date": "2023-04-15T22:00:00+00:00",
+      "timestamp": 1681596000,
+      "periods": {
+        "first": 1681596000,
+        "second": 1681599600
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      },
+      "away": {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "logo": "https://media.api-sports.io/football/teams/450.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971502,
+      "referee": "A. Penel",
+      "timezone": "UTC",
+      "date": "2023-04-23T18:30:00+00:00",
+      "timestamp": 1682274600,
+      "periods": {
+        "first": 1682274600,
+        "second": 1682278200
+      },
+      "venue": {
+        "id": 19391,
+        "name": "Estadio Gigante de Arroyito",
+        "city": "Rosario, Provincia de Santa Fe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 437,
+        "name": "Rosario Central",
+        "logo": "https://media.api-sports.io/football/teams/437.png",
+        "winner": null
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971512,
+      "referee": "A. Merlos",
+      "timezone": "UTC",
+      "date": "2023-04-30T00:30:00+00:00",
+      "timestamp": 1682814600,
+      "periods": {
+        "first": 1682814600,
+        "second": 1682818200
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media.api-sports.io/football/teams/436.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971525,
+      "referee": "D. Herrera",
+      "timezone": "UTC",
+      "date": "2023-05-07T20:30:00+00:00",
+      "timestamp": 1683491400,
+      "periods": {
+        "first": 1683491400,
+        "second": 1683495000
+      },
+      "venue": {
+        "id": 19570,
+        "name": "Estadio Mâs Monumental",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media.api-sports.io/football/teams/435.png",
+        "winner": true
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971537,
+      "referee": "F. Espinoza",
+      "timezone": "UTC",
+      "date": "2023-05-14T22:00:00+00:00",
+      "timestamp": 1684101600,
+      "periods": {
+        "first": 1684101600,
+        "second": 1684105200
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 440,
+        "name": "Belgrano Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/440.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971548,
+      "referee": "F. Echenique",
+      "timezone": "UTC",
+      "date": "2023-05-20T00:30:00+00:00",
+      "timestamp": 1684542600,
+      "periods": {
+        "first": 1684542600,
+        "second": 1684546200
+      },
+      "venue": {
+        "id": 37,
+        "name": "Estadio Diego Armando Maradona",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media.api-sports.io/football/teams/458.png",
+        "winner": false
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971562,
+      "referee": "N. Ramírez",
+      "timezone": "UTC",
+      "date": "2023-05-28T22:00:00+00:00",
+      "timestamp": 1685311200,
+      "periods": {
+        "first": 1685311200,
+        "second": 1685314800
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media.api-sports.io/football/teams/452.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971571,
+      "referee": "L. Rey Hilfer",
+      "timezone": "UTC",
+      "date": "2023-06-02T00:30:00+00:00",
+      "timestamp": 1685665800,
+      "periods": {
+        "first": 1685665800,
+        "second": 1685669400
+      },
+      "venue": {
+        "id": 38,
+        "name": "Estadio Julio Humberto Grondona",
+        "city": "Avellaneda, Provincia de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "logo": "https://media.api-sports.io/football/teams/459.png",
+        "winner": true
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971587,
+      "referee": "F. Echenique",
+      "timezone": "UTC",
+      "date": "2023-06-10T23:00:00+00:00",
+      "timestamp": 1686438000,
+      "periods": {
+        "first": 1686438000,
+        "second": 1686441600
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 20",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": null
+      },
+      "away": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media.api-sports.io/football/teams/446.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971594,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2023-06-23T00:45:00+00:00",
+      "timestamp": 1687481100,
+      "periods": {
+        "first": 1687481100,
+        "second": 1687484700
+      },
+      "venue": {
+        "id": 80,
+        "name": "Estadio Malvinas Argentinas",
+        "city": "Mendoza, Provincia de Mendoza"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 439,
+        "name": "Godoy Cruz",
+        "logo": "https://media.api-sports.io/football/teams/439.png",
+        "winner": true
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 988739,
+      "referee": "S. Trucco",
+      "timezone": "UTC",
+      "date": "2023-07-03T00:30:00+00:00",
+      "timestamp": 1688344200,
+      "periods": {
+        "first": 1688344200,
+        "second": 1688347800
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 22",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 474,
+        "name": "Sarmiento Junin",
+        "logo": "https://media.api-sports.io/football/teams/474.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971618,
+      "referee": "A. Merlos",
+      "timezone": "UTC",
+      "date": "2023-07-06T20:00:00+00:00",
+      "timestamp": 1688673600,
+      "periods": {
+        "first": 1688673600,
+        "second": 1688677200
+      },
+      "venue": {
+        "id": 1933,
+        "name": "Estadio 15 de Abril",
+        "city": "Ciudad de Santa Fe, Provincia de Santa Fe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media.api-sports.io/football/teams/441.png",
+        "winner": null
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971636,
+      "referee": "N. Ramírez",
+      "timezone": "UTC",
+      "date": "2023-07-10T22:30:00+00:00",
+      "timestamp": 1689028200,
+      "periods": {
+        "first": 1689028200,
+        "second": 1689031800
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 445,
+        "name": "Huracan",
+        "logo": "https://media.api-sports.io/football/teams/445.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971641,
+      "referee": "H. Mastrángelo",
+      "timezone": "UTC",
+      "date": "2023-07-16T19:30:00+00:00",
+      "timestamp": 1689535800,
+      "periods": {
+        "first": 1689535800,
+        "second": 1689539400
+      },
+      "venue": {
+        "id": 77,
+        "name": "Estadio Juan Carmelo Zerillo",
+        "city": "La Plata, Provincia de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 25",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "logo": "https://media.api-sports.io/football/teams/434.png",
+        "winner": false
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971661,
+      "referee": "F. Echenique",
+      "timezone": "UTC",
+      "date": "2023-07-24T23:45:00+00:00",
+      "timestamp": 1690242300,
+      "periods": {
+        "first": 1690242300,
+        "second": 1690245900
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 26",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      },
+      "away": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "https://media.api-sports.io/football/teams/457.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971664,
+      "referee": "N. Ramírez",
+      "timezone": "UTC",
+      "date": "2023-07-29T20:00:00+00:00",
+      "timestamp": 1690660800,
+      "periods": {
+        "first": 1690660800,
+        "second": 1690664400
+      },
+      "venue": {
+        "id": 7131,
+        "name": "Estadio Libertadores de América",
+        "city": "Avellaneda, Provincia de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2023,
+      "round": "Round - 27",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media.api-sports.io/football/teams/453.png",
+        "winner": false
+      },
+      "away": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

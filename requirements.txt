@@ -1,0 +1,55 @@
+# ChatDT: The Agentic Football Analyst
+# ============================================
+
+# ============================================
+# CORE - Data Processing
+# ============================================
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ============================================
+# DATA SOURCES
+# ============================================
+# HTTP requests para API-FOOTBALL
+requests>=2.31.0
+
+# Soccerdata para FBref (ligas europeas con xG)
+# NOTA: FBref no soporta Liga Argentina, solo ligas europeas
+soccerdata>=1.5.0
+
+# Parsers HTML requeridos por soccerdata
+html5lib>=1.1
+lxml>=5.0.0
+
+# Requerido para Python 3.12+ (distutils removed)
+setuptools>=65.0.0
+
+# ============================================
+# VISUALIZATION (Fase 4)
+# ============================================
+matplotlib>=3.7.0
+mplsoccer>=1.2.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# ============================================
+# LLM INTEGRATION (Fase 5)
+# ============================================
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# LLM Providers (opciones 100% gratuitas)
+# Google Gemini - RECOMENDADO (15 req/min gratis)
+langchain-google-genai>=2.0.0
+google-generativeai>=0.8.0
+
+# OpenAI compatible (Groq es gratis, OpenAI es pago)
+langchain-openai>=0.2.0
+openai>=1.0.0
+
+# ============================================
+# UTILITIES
+# ============================================
+# Manejo de variables de entorno
+python-dotenv>=1.0.0

@@ -1,0 +1,72 @@
+{
+  "match_info": {
+    "fixture_id": 971362,
+    "home_team": "Boca Juniors",
+    "away_team": "Atletico Tucuman",
+    "home_goals": 1,
+    "away_goals": 0,
+    "date": "2023-01-30"
+  },
+  "stats": {
+    "home": {
+      "shots_on_goal": 4.0,
+      "shots_off_goal": 11.0,
+      "total_shots": 19.0,
+      "blocked_shots": 4.0,
+      "shots_inside_box": 8.0,
+      "shots_outside_box": 11.0,
+      "fouls": 13.0,
+      "corner_kicks": 5.0,
+      "offsides": 1.0,
+      "possession": 61.0,
+      "yellow_cards": 1.0,
+      "red_cards": 0.0,
+      "goalkeeper_saves": 1.0,
+      "total_passes": 459.0,
+      "passes_accurate": 382.0,
+      "pass_accuracy": 83.0,
+      "team_name": "Boca Juniors"
+    },
+    "away": {
+      "shots_on_goal": 2.0,
+      "shots_off_goal": 6.0,
+      "total_shots": 13.0,
+      "blocked_shots": 5.0,
+      "shots_inside_box": 8.0,
+      "shots_outside_box": 5.0,
+      "fouls": 24.0,
+      "corner_kicks": 5.0,
+      "offsides": 3.0,
+      "possession": 39.0,
+      "yellow_cards": 4.0,
+      "red_cards": 0.0,
+      "goalkeeper_saves": 3.0,
+      "total_passes": 290.0,
+      "passes_accurate": 197.0,
+      "pass_accuracy": 68.0,
+      "team_name": "Atletico Tucuman"
+    }
+  },
+  "cps_scores": {
+    "home": {
+      "threat": 38.2,
+      "control": 75.08,
+      "friction": -9.5,
+      "total": 103.78
+    },
+    "away": {
+      "threat": 28.6,
+      "control": 55.4,
+      "friction": -24.0,
+      "total": 60.0
+    }
+  },
+  "comparison": {
+    "home_score": 103.78,
+    "away_score": 60.0,
+    "difference": 43.78,
+    "better_team": "Boca Juniors",
+    "dominance": "claramente"
+  },
+  "verdict": "Boca Juniors gano y merecio el triunfo. Su CPS de 103.8 fue superior por 43.8 puntos."
+}
