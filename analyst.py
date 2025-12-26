@@ -222,25 +222,29 @@ class AnalystAgent:
             total=total
         )
     
-    def analyze_match(self, filepath: str) -> Dict[str, Any]:
+    def analyze_match(self, data_or_path) -> Dict[str, Any]:
         """
         Analiza un partido completo y determina quien jugo mejor.
         
         Args:
-            filepath: Ruta al JSON del partido
+            data_or_path: Dict con datos del partido O ruta al JSON
             
         Returns:
             Dict con analisis completo:
             - match_info: Info basica del partido
             - stats: Estadisticas parseadas
+            - home_cps/away_cps: CPS por equipo (para compatibilidad)
             - cps_scores: CPS por equipo
             - comparison: Quien jugo mejor y por cuanto
             - verdict: Texto explicativo
         """
         print(f"\n[ANALYST] Analizando partido...")
         
-        # Cargar datos
-        data = self.load_match_data(filepath)
+        # Cargar datos - puede ser dict o filepath
+        if isinstance(data_or_path, dict):
+            data = data_or_path
+        else:
+            data = self.load_match_data(data_or_path)
         
         # Extraer info del partido
         fixture = data.get("fixture", {})
@@ -311,6 +315,20 @@ class AnalystAgent:
         print(f"\n  --- VEREDICTO ---")
         print(f"  {verdict}")
         
+        # Formato compatible con app.py
+        home_cps_dict = {
+            "Threat": home_cps.threat,
+            "Control": home_cps.control,
+            "Friction": home_cps.friction,
+            "TOTAL": home_cps.total,
+        }
+        away_cps_dict = {
+            "Threat": away_cps.threat,
+            "Control": away_cps.control,
+            "Friction": away_cps.friction,
+            "TOTAL": away_cps.total,
+        }
+        
         return {
             "match_info": match_info,
             "stats": {
@@ -321,6 +339,9 @@ class AnalystAgent:
                 "home": home_cps.to_dict(),
                 "away": away_cps.to_dict(),
             },
+            # Para compatibilidad con app.py
+            "home_cps": home_cps_dict,
+            "away_cps": away_cps_dict,
             "comparison": comparison,
             "verdict": verdict,
         }
@@ -338,25 +359,28 @@ class AnalystAgent:
         home_goals = match_info['home_goals']
         away_goals = match_info['away_goals']
         
-        # Determinar ganador real
+        # Determinar ganador real del partido
         if home_goals > away_goals:
             winner = home
-            loser = away
+            winner_cps = home_cps.total
         elif away_goals > home_goals:
             winner = away
-            loser = home
+            winner_cps = away_cps.total
         else:
             winner = None
+            winner_cps = 0
         
         better = comparison['better_team']
         diff = comparison['difference']
+        
+        # Obtener CPS del mejor equipo segun metricas
+        better_cps = home_cps.total if better == home else away_cps.total
         
         # Caso 1: El mejor equipo gano
         if winner and winner == better:
             return (
                 f"{winner} gano y merecio el triunfo. "
-                f"Su CPS de {comparison['home_score'] if winner == home else comparison['away_score']:.1f} "
-                f"fue superior por {diff:.1f} puntos."
+                f"Su CPS de {winner_cps:.1f} fue superior por {diff:.1f} puntos."
             )
         
         # Caso 2: Empate tecnico pero hubo ganador
@@ -369,7 +393,7 @@ class AnalystAgent:
         # Caso 3: El mejor equipo perdio
         if winner and winner != better and better != "Empate tecnico":
             return (
-                f"Resultado injusto! {better} fue el mejor equipo con un CPS "
+                f"Resultado injusto! {better} fue el mejor equipo con un CPS de {better_cps:.1f}, "
                 f"superior por {diff:.1f} puntos, pero {winner} se llevo la victoria. "
                 f"El futbol a veces no premia al mejor."
             )

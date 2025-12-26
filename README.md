@@ -132,15 +132,25 @@ GROQ_API_KEY=tu_groq_key
 
 ## Uso
 
-### Analizar un partido por ID
+### Opcion 1: Frontend Web (Recomendado)
 
 ```bash
-python main.py --fixture 971362
+streamlit run app.py
 ```
 
-### Analizar ultimo partido de un equipo
+Abre http://localhost:8501 en tu navegador. Interfaz estilo "War Room" con:
+- Selector de partidos y equipos
+- Visualizacion de CPS Score en tiempo real
+- Graficos tacticos interactivos
+- Cronicas generadas por IA
+
+### Opcion 2: Linea de Comandos
 
 ```bash
+# Analizar por ID de partido
+python main.py --fixture 971362
+
+# Analizar ultimo partido de un equipo
 python main.py --team 451  # Boca Juniors
 ```
 
